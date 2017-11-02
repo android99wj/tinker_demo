@@ -8,7 +8,6 @@ import android.view.View;
 import android.widget.TextView;
 
 import com.tencent.tinker.lib.tinker.TinkerInstaller;
-import com.wj.tinker.R;
 
 public class MainActivity extends AppCompatActivity {
 
