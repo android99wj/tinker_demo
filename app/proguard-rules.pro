@@ -24,6 +24,8 @@
 # hide the original source file name.
 #-renamesourcefileattribute SourceFile
 
+-applymapping mapping.txt
+
 -keepattributes *Annotation*
 -dontwarn com.tencent.tinker.anno.AnnotationProcessor
 -keep @com.tencent.tinker.anno.DefaultLifeCycle public class *
